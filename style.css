@@ -1,0 +1,43 @@
+html, body{
+    margin: 0;
+    background-color: hsl(220, 15%, 55%);}
+ #text{
+    font-size: 15px;
+    color: hsl(212, 12%, 79%);
+    font-weight: 700;
+}
+h2{
+    font-size: 17px;
+    color: hsl(218, 44%, 22%);
+    font-weight: 800;
+    text-align: center;
+    
+}
+.main-sec{
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    height: 450px;
+    border-radius: 15px;
+    font-family: "Outfit", sans-serif;
+    text-align: center;
+    margin: 150px;
+    
+}
+
+.image-sec{
+    margin: 20px;
+}
+
+/* @media screen (375px)
+{
+    max-width:100%
+}
+
+  
+    
+
+    1440px;
+}
+ */
+
+
