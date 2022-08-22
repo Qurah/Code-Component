@@ -26,9 +26,9 @@ h2{
     @media only screen and (max-width:375px) {
   /* For mobile phones: */
         .main-sec{
-    width: 80%;
+    width: 60%;
       height: auto;
-       margin: 50px;
+       margin: auto;
     }
  
 }
