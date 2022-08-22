@@ -5,6 +5,7 @@ html, body{
     font-size: 15px;
     color: hsl(212, 12%, 79%);
     font-weight: 700;
+     padding-bottom: 50px;
 }
 h2{
     font-size: 17px;
@@ -28,7 +29,7 @@ h2{
         .main-sec{
     width: 80%;
       height: auto;
-       margin: 50px 100px;
+       margin: 100px 50px;
     }
  
 }
