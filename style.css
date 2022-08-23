@@ -1,9 +1,10 @@
-html, body{
-    margin: 0;
+body{
     background-color: hsl(220, 15%, 55%);}
 *{
        box-sizing: border-box;
- #text{
+        margin: 0;
+        padding: 0;
+ #text p{
     font-size: 15px;
     color: hsl(212, 12%, 79%);
     font-weight: 700;
@@ -23,7 +24,7 @@ h2{
     border-radius: 15px;
     font-family: "Outfit", sans-serif;
     text-align: center;
-    margin: auto;
+    margin: 15px;
 }
     
     @media only screen and (max-width:500px) {
@@ -31,7 +32,7 @@ h2{
        body{ .main-sec{
     width: 375px;
       height: auto;
-            margin auto;
+           
     }
         }
 }
