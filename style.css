@@ -19,19 +19,19 @@ h2{
 }
 .main-sec{
     background-color: hsl(0, 0%, 100%);
-    width: 300px;
+    max-width: 350px;
     height: 450px;
     border-radius: 15px;
     font-family: "Outfit", sans-serif;
     text-align: center;
-    margin: 15px;
+    margin: auto auto;
 }
     
     @media only screen and (max-width:500px) {
   /* For mobile phones: */
        body{ .main-sec{
-    width: 100%;
-      height: auto;
+/*     width: 100%; */
+      
            
     }
         }
