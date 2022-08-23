@@ -30,7 +30,7 @@ h2{
     @media only screen and (max-width:500px) {
   /* For mobile phones: */
        body{ .main-sec{
-    width: 375px;
+    width: 100%;
       height: auto;
            
     }
