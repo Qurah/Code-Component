@@ -3,7 +3,8 @@
     body{
         background-color: hsl(220, 15%, 55%);
             height: 100vh;
-        
+        align-items: center;
+        jusstify-content:center;
     }
     *{
            box-sizing: border-box;
